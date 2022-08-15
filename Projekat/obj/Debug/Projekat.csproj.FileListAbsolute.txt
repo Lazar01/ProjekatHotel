@@ -1,0 +1,13 @@
+D:\Projekti\ProjekatTVP\Projekat\Projekat\bin\Debug\Projekat.exe.config
+D:\Projekti\ProjekatTVP\Projekat\Projekat\bin\Debug\Projekat.exe
+D:\Projekti\ProjekatTVP\Projekat\Projekat\bin\Debug\Projekat.pdb
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.csproj.AssemblyReference.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.exe
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.pdb
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.FormaRecepcioner.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.FormaAdmin.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Debug\Projekat.FormaRecepcionerRezervisanje.resources

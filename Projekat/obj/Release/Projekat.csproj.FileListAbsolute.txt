@@ -1,0 +1,12 @@
+D:\Projekti\ProjekatTVP\Projekat\Projekat\bin\Release\Projekat.exe.config
+D:\Projekti\ProjekatTVP\Projekat\Projekat\bin\Release\Projekat.exe
+D:\Projekti\ProjekatTVP\Projekat\Projekat\bin\Release\Projekat.pdb
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.csproj.AssemblyReference.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.csproj.SuggestedBindingRedirects.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.Form1.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.FormaRecepcioner.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.Properties.Resources.resources
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.csproj.GenerateResource.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.csproj.CoreCompileInputs.cache
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.exe
+D:\Projekti\ProjekatTVP\Projekat\Projekat\obj\Release\Projekat.pdb

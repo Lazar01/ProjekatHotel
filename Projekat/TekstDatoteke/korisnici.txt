@@ -1,0 +1,4 @@
+1|Admin|Admin123|Marko|Zivanovic|a
+2|Darko|Darko123|Darko|Peric|r
+3|a|a|Zarko|Lazetic|a
+4|r|r|Kalamarko|Pipkavac|r
